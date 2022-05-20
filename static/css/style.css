@@ -1,0 +1,22 @@
+h1{
+
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+font-style: italic;
+margin-top: auto;
+
+}
+
+body{
+
+    background-color: brown;
+}
+img{
+
+    width: max-content;
+    height: max-content;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+}
